@@ -1,4 +1,4 @@
-# SmartCKEditor: A Smart GWT module to include CKEditor as FormItem in a SmartGWT application.
+# SmartCKEditor: A SmartGWT module to include CKEditor as FormItem in a SmartGWT application.
 
 ## Instructions:
 
